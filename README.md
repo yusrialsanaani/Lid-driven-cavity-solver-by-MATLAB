@@ -25,7 +25,7 @@ By comparing the line plots of velocity components, this solver gives similar be
 
 
 By performing further refinement to the grid size with nx=ny=260, the line plots of velocity components are very similar and close to those results reported in the reference. 
-Also, the contours are finer and more organized as shown in figure 2. 
+Also, the contours are finer and more organized as shown in figure 2 (a) - (b). 
 
 **Figure 2: Velocity & pressure contours and line plot of velocity components at nx=ny =260.**
 
