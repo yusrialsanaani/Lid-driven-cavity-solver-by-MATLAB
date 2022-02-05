@@ -5,7 +5,11 @@ The discretization is performed by using a second-order central scheme in space 
 The solution is advanced to steady state using different grid refinements starting from nx=ny=33 to 260. 
 The results of solution at nx=ny=33 are shown in figure 1.
 
-(a): ![image](https://user-images.githubusercontent.com/89004966/152657677-c2e91f6f-b573-4920-a4d9-470f995c4126.png)
+(a): ![image](https://user-images.githubusercontent.com/89004966/152657677-c2e91f6f-b573-4920-a4d9-470f995c4126.png) (b):![image](https://user-images.githubusercontent.com/89004966/152657745-0452d52c-776e-4ae5-a5bc-4fbf2504a084.png)
+
+
+Figure 1: Velocity & pressure contours and line plot of velocity components at nx=ny =33.
+
 
 By comparing the line plots of velocity components, this solver gives similar behavior to those results in the reference with significant difference in the magnitude. 
 
