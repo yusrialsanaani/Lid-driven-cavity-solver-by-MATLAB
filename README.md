@@ -5,7 +5,7 @@ The discretization is performed by using a second-order central scheme in space 
 The solution is advanced to steady state using different grid refinements starting from nx=ny=33 to 260. 
 
 At each boundary, an appropriate one-sided second-order scheme in lieu of the second-order central scheme was used.
-The simulation done using a domain size of L = 1, Reynolds number of Re = 100, Mach number of Ma = 0:1, Prandtl number of 0:71, and ratio of specific heats = 1:4, and grid points nx = ny = 33.
+The simulation done using a domain size of L = 1, Reynolds number of Re = 100, Mach number of Ma = 0.1, Prandtl number of 0.71, and ratio of specific heats = 1.4, and grid points nx = ny = 33.
 
 The results of solution at nx=ny=33 are shown in figure 1 (a) - (d).
 
